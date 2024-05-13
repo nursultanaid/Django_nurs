@@ -1,0 +1,17 @@
+.env
+venv/
+*/migrations/0*.py
+*.secret
+staticfiles/
+*.log
+.idea/
+__pycache__/
+*.pyc
+*.session
+db.sqlite3
+.coverage
+build/
+pip-cache/
+*.bak
+staticfiles
+media
